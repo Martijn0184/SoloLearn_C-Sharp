@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "046_the_for_loop_II/1.0.0": {
+        "runtime": {
+          "046_the_for_loop_II.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "046_the_for_loop_II/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
