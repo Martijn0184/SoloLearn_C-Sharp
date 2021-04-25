@@ -1,0 +1,12 @@
+C:\Users\Gebruiker\source\repos\003_int_double\003_int_double\bin\Debug\netcoreapp3.1\003_int_double.exe
+C:\Users\Gebruiker\source\repos\003_int_double\003_int_double\bin\Debug\netcoreapp3.1\003_int_double.deps.json
+C:\Users\Gebruiker\source\repos\003_int_double\003_int_double\bin\Debug\netcoreapp3.1\003_int_double.runtimeconfig.json
+C:\Users\Gebruiker\source\repos\003_int_double\003_int_double\bin\Debug\netcoreapp3.1\003_int_double.runtimeconfig.dev.json
+C:\Users\Gebruiker\source\repos\003_int_double\003_int_double\bin\Debug\netcoreapp3.1\003_int_double.dll
+C:\Users\Gebruiker\source\repos\003_int_double\003_int_double\bin\Debug\netcoreapp3.1\003_int_double.pdb
+C:\Users\Gebruiker\source\repos\003_int_double\003_int_double\obj\Debug\netcoreapp3.1\003_int_double.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\003_int_double\003_int_double\obj\Debug\netcoreapp3.1\003_int_double.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\003_int_double\003_int_double\obj\Debug\netcoreapp3.1\003_int_double.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\003_int_double\003_int_double\obj\Debug\netcoreapp3.1\003_int_double.dll
+C:\Users\Gebruiker\source\repos\003_int_double\003_int_double\obj\Debug\netcoreapp3.1\003_int_double.pdb
+C:\Users\Gebruiker\source\repos\003_int_double\003_int_double\obj\Debug\netcoreapp3.1\003_int_double.genruntimeconfig.cache
