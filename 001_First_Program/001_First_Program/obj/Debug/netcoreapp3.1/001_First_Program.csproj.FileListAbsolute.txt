@@ -1,0 +1,13 @@
+C:\Users\Gebruiker\source\repos\001_First_Program\001_First_Program\bin\Debug\netcoreapp3.1\001_First_Program.exe
+C:\Users\Gebruiker\source\repos\001_First_Program\001_First_Program\bin\Debug\netcoreapp3.1\001_First_Program.deps.json
+C:\Users\Gebruiker\source\repos\001_First_Program\001_First_Program\bin\Debug\netcoreapp3.1\001_First_Program.runtimeconfig.json
+C:\Users\Gebruiker\source\repos\001_First_Program\001_First_Program\bin\Debug\netcoreapp3.1\001_First_Program.runtimeconfig.dev.json
+C:\Users\Gebruiker\source\repos\001_First_Program\001_First_Program\bin\Debug\netcoreapp3.1\001_First_Program.dll
+C:\Users\Gebruiker\source\repos\001_First_Program\001_First_Program\bin\Debug\netcoreapp3.1\001_First_Program.pdb
+C:\Users\Gebruiker\source\repos\001_First_Program\001_First_Program\obj\Debug\netcoreapp3.1\001_First_Program.csprojAssemblyReference.cache
+C:\Users\Gebruiker\source\repos\001_First_Program\001_First_Program\obj\Debug\netcoreapp3.1\001_First_Program.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\001_First_Program\001_First_Program\obj\Debug\netcoreapp3.1\001_First_Program.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\001_First_Program\001_First_Program\obj\Debug\netcoreapp3.1\001_First_Program.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\001_First_Program\001_First_Program\obj\Debug\netcoreapp3.1\001_First_Program.dll
+C:\Users\Gebruiker\source\repos\001_First_Program\001_First_Program\obj\Debug\netcoreapp3.1\001_First_Program.pdb
+C:\Users\Gebruiker\source\repos\001_First_Program\001_First_Program\obj\Debug\netcoreapp3.1\001_First_Program.genruntimeconfig.cache
