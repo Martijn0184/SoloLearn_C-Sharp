@@ -1,0 +1,12 @@
+C:\Users\Gebruiker\source\repos\025_decrement_operator\025_decrement_operator\bin\Debug\netcoreapp3.1\025_decrement_operator.exe
+C:\Users\Gebruiker\source\repos\025_decrement_operator\025_decrement_operator\bin\Debug\netcoreapp3.1\025_decrement_operator.deps.json
+C:\Users\Gebruiker\source\repos\025_decrement_operator\025_decrement_operator\bin\Debug\netcoreapp3.1\025_decrement_operator.runtimeconfig.json
+C:\Users\Gebruiker\source\repos\025_decrement_operator\025_decrement_operator\bin\Debug\netcoreapp3.1\025_decrement_operator.runtimeconfig.dev.json
+C:\Users\Gebruiker\source\repos\025_decrement_operator\025_decrement_operator\bin\Debug\netcoreapp3.1\025_decrement_operator.dll
+C:\Users\Gebruiker\source\repos\025_decrement_operator\025_decrement_operator\bin\Debug\netcoreapp3.1\025_decrement_operator.pdb
+C:\Users\Gebruiker\source\repos\025_decrement_operator\025_decrement_operator\obj\Debug\netcoreapp3.1\025_decrement_operator.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\025_decrement_operator\025_decrement_operator\obj\Debug\netcoreapp3.1\025_decrement_operator.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\025_decrement_operator\025_decrement_operator\obj\Debug\netcoreapp3.1\025_decrement_operator.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\025_decrement_operator\025_decrement_operator\obj\Debug\netcoreapp3.1\025_decrement_operator.dll
+C:\Users\Gebruiker\source\repos\025_decrement_operator\025_decrement_operator\obj\Debug\netcoreapp3.1\025_decrement_operator.pdb
+C:\Users\Gebruiker\source\repos\025_decrement_operator\025_decrement_operator\obj\Debug\netcoreapp3.1\025_decrement_operator.genruntimeconfig.cache

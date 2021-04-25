@@ -1,0 +1,13 @@
+C:\Users\Gebruiker\source\repos\023_Prefix_decrement\023_Prefix_decrement\bin\Debug\netcoreapp3.1\023_Prefix_decrement.exe
+C:\Users\Gebruiker\source\repos\023_Prefix_decrement\023_Prefix_decrement\bin\Debug\netcoreapp3.1\023_Prefix_decrement.deps.json
+C:\Users\Gebruiker\source\repos\023_Prefix_decrement\023_Prefix_decrement\bin\Debug\netcoreapp3.1\023_Prefix_decrement.runtimeconfig.json
+C:\Users\Gebruiker\source\repos\023_Prefix_decrement\023_Prefix_decrement\bin\Debug\netcoreapp3.1\023_Prefix_decrement.runtimeconfig.dev.json
+C:\Users\Gebruiker\source\repos\023_Prefix_decrement\023_Prefix_decrement\bin\Debug\netcoreapp3.1\023_Prefix_decrement.dll
+C:\Users\Gebruiker\source\repos\023_Prefix_decrement\023_Prefix_decrement\bin\Debug\netcoreapp3.1\023_Prefix_decrement.pdb
+C:\Users\Gebruiker\source\repos\023_Prefix_decrement\023_Prefix_decrement\obj\Debug\netcoreapp3.1\023_Prefix_decrement.csprojAssemblyReference.cache
+C:\Users\Gebruiker\source\repos\023_Prefix_decrement\023_Prefix_decrement\obj\Debug\netcoreapp3.1\023_Prefix_decrement.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\023_Prefix_decrement\023_Prefix_decrement\obj\Debug\netcoreapp3.1\023_Prefix_decrement.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\023_Prefix_decrement\023_Prefix_decrement\obj\Debug\netcoreapp3.1\023_Prefix_decrement.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\023_Prefix_decrement\023_Prefix_decrement\obj\Debug\netcoreapp3.1\023_Prefix_decrement.dll
+C:\Users\Gebruiker\source\repos\023_Prefix_decrement\023_Prefix_decrement\obj\Debug\netcoreapp3.1\023_Prefix_decrement.pdb
+C:\Users\Gebruiker\source\repos\023_Prefix_decrement\023_Prefix_decrement\obj\Debug\netcoreapp3.1\023_Prefix_decrement.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Gebruiker\source\repos\024_postfix_decrement\024_postfix_decrement\bin\Debug\netcoreapp3.1\024_postfix_decrement.exe
+C:\Users\Gebruiker\source\repos\024_postfix_decrement\024_postfix_decrement\bin\Debug\netcoreapp3.1\024_postfix_decrement.deps.json
+C:\Users\Gebruiker\source\repos\024_postfix_decrement\024_postfix_decrement\bin\Debug\netcoreapp3.1\024_postfix_decrement.runtimeconfig.json
+C:\Users\Gebruiker\source\repos\024_postfix_decrement\024_postfix_decrement\bin\Debug\netcoreapp3.1\024_postfix_decrement.runtimeconfig.dev.json
+C:\Users\Gebruiker\source\repos\024_postfix_decrement\024_postfix_decrement\bin\Debug\netcoreapp3.1\024_postfix_decrement.dll
+C:\Users\Gebruiker\source\repos\024_postfix_decrement\024_postfix_decrement\bin\Debug\netcoreapp3.1\024_postfix_decrement.pdb
+C:\Users\Gebruiker\source\repos\024_postfix_decrement\024_postfix_decrement\obj\Debug\netcoreapp3.1\024_postfix_decrement.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\024_postfix_decrement\024_postfix_decrement\obj\Debug\netcoreapp3.1\024_postfix_decrement.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\024_postfix_decrement\024_postfix_decrement\obj\Debug\netcoreapp3.1\024_postfix_decrement.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\024_postfix_decrement\024_postfix_decrement\obj\Debug\netcoreapp3.1\024_postfix_decrement.dll
+C:\Users\Gebruiker\source\repos\024_postfix_decrement\024_postfix_decrement\obj\Debug\netcoreapp3.1\024_postfix_decrement.pdb
+C:\Users\Gebruiker\source\repos\024_postfix_decrement\024_postfix_decrement\obj\Debug\netcoreapp3.1\024_postfix_decrement.genruntimeconfig.cache
