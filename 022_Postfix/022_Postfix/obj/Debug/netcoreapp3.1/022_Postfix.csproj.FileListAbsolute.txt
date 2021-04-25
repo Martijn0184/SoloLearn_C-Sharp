@@ -1,0 +1,12 @@
+C:\Users\Gebruiker\source\repos\022_Postfix\022_Postfix\bin\Debug\netcoreapp3.1\022_Postfix.exe
+C:\Users\Gebruiker\source\repos\022_Postfix\022_Postfix\bin\Debug\netcoreapp3.1\022_Postfix.deps.json
+C:\Users\Gebruiker\source\repos\022_Postfix\022_Postfix\bin\Debug\netcoreapp3.1\022_Postfix.runtimeconfig.json
+C:\Users\Gebruiker\source\repos\022_Postfix\022_Postfix\bin\Debug\netcoreapp3.1\022_Postfix.runtimeconfig.dev.json
+C:\Users\Gebruiker\source\repos\022_Postfix\022_Postfix\bin\Debug\netcoreapp3.1\022_Postfix.dll
+C:\Users\Gebruiker\source\repos\022_Postfix\022_Postfix\bin\Debug\netcoreapp3.1\022_Postfix.pdb
+C:\Users\Gebruiker\source\repos\022_Postfix\022_Postfix\obj\Debug\netcoreapp3.1\022_Postfix.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\022_Postfix\022_Postfix\obj\Debug\netcoreapp3.1\022_Postfix.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\022_Postfix\022_Postfix\obj\Debug\netcoreapp3.1\022_Postfix.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\022_Postfix\022_Postfix\obj\Debug\netcoreapp3.1\022_Postfix.dll
+C:\Users\Gebruiker\source\repos\022_Postfix\022_Postfix\obj\Debug\netcoreapp3.1\022_Postfix.pdb
+C:\Users\Gebruiker\source\repos\022_Postfix\022_Postfix\obj\Debug\netcoreapp3.1\022_Postfix.genruntimeconfig.cache

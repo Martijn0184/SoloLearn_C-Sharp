@@ -1,0 +1,12 @@
+C:\Users\Gebruiker\source\repos\021_Prefix\021_Prefix\bin\Debug\netcoreapp3.1\021_Prefix.exe
+C:\Users\Gebruiker\source\repos\021_Prefix\021_Prefix\bin\Debug\netcoreapp3.1\021_Prefix.deps.json
+C:\Users\Gebruiker\source\repos\021_Prefix\021_Prefix\bin\Debug\netcoreapp3.1\021_Prefix.runtimeconfig.json
+C:\Users\Gebruiker\source\repos\021_Prefix\021_Prefix\bin\Debug\netcoreapp3.1\021_Prefix.runtimeconfig.dev.json
+C:\Users\Gebruiker\source\repos\021_Prefix\021_Prefix\bin\Debug\netcoreapp3.1\021_Prefix.dll
+C:\Users\Gebruiker\source\repos\021_Prefix\021_Prefix\bin\Debug\netcoreapp3.1\021_Prefix.pdb
+C:\Users\Gebruiker\source\repos\021_Prefix\021_Prefix\obj\Debug\netcoreapp3.1\021_Prefix.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\021_Prefix\021_Prefix\obj\Debug\netcoreapp3.1\021_Prefix.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\021_Prefix\021_Prefix\obj\Debug\netcoreapp3.1\021_Prefix.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\021_Prefix\021_Prefix\obj\Debug\netcoreapp3.1\021_Prefix.dll
+C:\Users\Gebruiker\source\repos\021_Prefix\021_Prefix\obj\Debug\netcoreapp3.1\021_Prefix.pdb
+C:\Users\Gebruiker\source\repos\021_Prefix\021_Prefix\obj\Debug\netcoreapp3.1\021_Prefix.genruntimeconfig.cache

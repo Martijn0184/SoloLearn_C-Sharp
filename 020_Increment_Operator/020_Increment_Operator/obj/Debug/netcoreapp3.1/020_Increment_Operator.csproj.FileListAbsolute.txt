@@ -1,0 +1,12 @@
+C:\Users\Gebruiker\source\repos\020_Increment_Operator\020_Increment_Operator\bin\Debug\netcoreapp3.1\020_Increment_Operator.exe
+C:\Users\Gebruiker\source\repos\020_Increment_Operator\020_Increment_Operator\bin\Debug\netcoreapp3.1\020_Increment_Operator.deps.json
+C:\Users\Gebruiker\source\repos\020_Increment_Operator\020_Increment_Operator\bin\Debug\netcoreapp3.1\020_Increment_Operator.runtimeconfig.json
+C:\Users\Gebruiker\source\repos\020_Increment_Operator\020_Increment_Operator\bin\Debug\netcoreapp3.1\020_Increment_Operator.runtimeconfig.dev.json
+C:\Users\Gebruiker\source\repos\020_Increment_Operator\020_Increment_Operator\bin\Debug\netcoreapp3.1\020_Increment_Operator.dll
+C:\Users\Gebruiker\source\repos\020_Increment_Operator\020_Increment_Operator\bin\Debug\netcoreapp3.1\020_Increment_Operator.pdb
+C:\Users\Gebruiker\source\repos\020_Increment_Operator\020_Increment_Operator\obj\Debug\netcoreapp3.1\020_Increment_Operator.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\020_Increment_Operator\020_Increment_Operator\obj\Debug\netcoreapp3.1\020_Increment_Operator.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\020_Increment_Operator\020_Increment_Operator\obj\Debug\netcoreapp3.1\020_Increment_Operator.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\020_Increment_Operator\020_Increment_Operator\obj\Debug\netcoreapp3.1\020_Increment_Operator.dll
+C:\Users\Gebruiker\source\repos\020_Increment_Operator\020_Increment_Operator\obj\Debug\netcoreapp3.1\020_Increment_Operator.pdb
+C:\Users\Gebruiker\source\repos\020_Increment_Operator\020_Increment_Operator\obj\Debug\netcoreapp3.1\020_Increment_Operator.genruntimeconfig.cache
