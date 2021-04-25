@@ -1,0 +1,12 @@
+C:\Users\Gebruiker\source\repos\040_while_II\040_while_II\bin\Debug\netcoreapp3.1\040_while_II.exe
+C:\Users\Gebruiker\source\repos\040_while_II\040_while_II\bin\Debug\netcoreapp3.1\040_while_II.deps.json
+C:\Users\Gebruiker\source\repos\040_while_II\040_while_II\bin\Debug\netcoreapp3.1\040_while_II.runtimeconfig.json
+C:\Users\Gebruiker\source\repos\040_while_II\040_while_II\bin\Debug\netcoreapp3.1\040_while_II.runtimeconfig.dev.json
+C:\Users\Gebruiker\source\repos\040_while_II\040_while_II\bin\Debug\netcoreapp3.1\040_while_II.dll
+C:\Users\Gebruiker\source\repos\040_while_II\040_while_II\bin\Debug\netcoreapp3.1\040_while_II.pdb
+C:\Users\Gebruiker\source\repos\040_while_II\040_while_II\obj\Debug\netcoreapp3.1\040_while_II.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\040_while_II\040_while_II\obj\Debug\netcoreapp3.1\040_while_II.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\040_while_II\040_while_II\obj\Debug\netcoreapp3.1\040_while_II.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\040_while_II\040_while_II\obj\Debug\netcoreapp3.1\040_while_II.dll
+C:\Users\Gebruiker\source\repos\040_while_II\040_while_II\obj\Debug\netcoreapp3.1\040_while_II.pdb
+C:\Users\Gebruiker\source\repos\040_while_II\040_while_II\obj\Debug\netcoreapp3.1\040_while_II.genruntimeconfig.cache
