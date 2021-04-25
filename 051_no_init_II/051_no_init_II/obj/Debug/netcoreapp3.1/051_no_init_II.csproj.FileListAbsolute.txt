@@ -1,0 +1,12 @@
+C:\Users\Gebruiker\source\repos\051_no_init_II\051_no_init_II\bin\Debug\netcoreapp3.1\051_no_init_II.exe
+C:\Users\Gebruiker\source\repos\051_no_init_II\051_no_init_II\bin\Debug\netcoreapp3.1\051_no_init_II.deps.json
+C:\Users\Gebruiker\source\repos\051_no_init_II\051_no_init_II\bin\Debug\netcoreapp3.1\051_no_init_II.runtimeconfig.json
+C:\Users\Gebruiker\source\repos\051_no_init_II\051_no_init_II\bin\Debug\netcoreapp3.1\051_no_init_II.runtimeconfig.dev.json
+C:\Users\Gebruiker\source\repos\051_no_init_II\051_no_init_II\bin\Debug\netcoreapp3.1\051_no_init_II.dll
+C:\Users\Gebruiker\source\repos\051_no_init_II\051_no_init_II\bin\Debug\netcoreapp3.1\051_no_init_II.pdb
+C:\Users\Gebruiker\source\repos\051_no_init_II\051_no_init_II\obj\Debug\netcoreapp3.1\051_no_init_II.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\051_no_init_II\051_no_init_II\obj\Debug\netcoreapp3.1\051_no_init_II.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\051_no_init_II\051_no_init_II\obj\Debug\netcoreapp3.1\051_no_init_II.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\051_no_init_II\051_no_init_II\obj\Debug\netcoreapp3.1\051_no_init_II.dll
+C:\Users\Gebruiker\source\repos\051_no_init_II\051_no_init_II\obj\Debug\netcoreapp3.1\051_no_init_II.pdb
+C:\Users\Gebruiker\source\repos\051_no_init_II\051_no_init_II\obj\Debug\netcoreapp3.1\051_no_init_II.genruntimeconfig.cache

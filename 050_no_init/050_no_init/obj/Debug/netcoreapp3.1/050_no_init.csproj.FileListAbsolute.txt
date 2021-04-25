@@ -1,0 +1,12 @@
+C:\Users\Gebruiker\source\repos\050_no_init\050_no_init\bin\Debug\netcoreapp3.1\050_no_init.exe
+C:\Users\Gebruiker\source\repos\050_no_init\050_no_init\bin\Debug\netcoreapp3.1\050_no_init.deps.json
+C:\Users\Gebruiker\source\repos\050_no_init\050_no_init\bin\Debug\netcoreapp3.1\050_no_init.runtimeconfig.json
+C:\Users\Gebruiker\source\repos\050_no_init\050_no_init\bin\Debug\netcoreapp3.1\050_no_init.runtimeconfig.dev.json
+C:\Users\Gebruiker\source\repos\050_no_init\050_no_init\bin\Debug\netcoreapp3.1\050_no_init.dll
+C:\Users\Gebruiker\source\repos\050_no_init\050_no_init\bin\Debug\netcoreapp3.1\050_no_init.pdb
+C:\Users\Gebruiker\source\repos\050_no_init\050_no_init\obj\Debug\netcoreapp3.1\050_no_init.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\050_no_init\050_no_init\obj\Debug\netcoreapp3.1\050_no_init.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\050_no_init\050_no_init\obj\Debug\netcoreapp3.1\050_no_init.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\050_no_init\050_no_init\obj\Debug\netcoreapp3.1\050_no_init.dll
+C:\Users\Gebruiker\source\repos\050_no_init\050_no_init\obj\Debug\netcoreapp3.1\050_no_init.pdb
+C:\Users\Gebruiker\source\repos\050_no_init\050_no_init\obj\Debug\netcoreapp3.1\050_no_init.genruntimeconfig.cache

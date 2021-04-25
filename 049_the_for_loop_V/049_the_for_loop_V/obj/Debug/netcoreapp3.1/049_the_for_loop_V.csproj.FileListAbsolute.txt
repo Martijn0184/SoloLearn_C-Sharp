@@ -1,0 +1,12 @@
+C:\Users\Gebruiker\source\repos\049_the_for_loop_V\049_the_for_loop_V\bin\Debug\netcoreapp3.1\049_the_for_loop_V.exe
+C:\Users\Gebruiker\source\repos\049_the_for_loop_V\049_the_for_loop_V\bin\Debug\netcoreapp3.1\049_the_for_loop_V.deps.json
+C:\Users\Gebruiker\source\repos\049_the_for_loop_V\049_the_for_loop_V\bin\Debug\netcoreapp3.1\049_the_for_loop_V.runtimeconfig.json
+C:\Users\Gebruiker\source\repos\049_the_for_loop_V\049_the_for_loop_V\bin\Debug\netcoreapp3.1\049_the_for_loop_V.runtimeconfig.dev.json
+C:\Users\Gebruiker\source\repos\049_the_for_loop_V\049_the_for_loop_V\bin\Debug\netcoreapp3.1\049_the_for_loop_V.dll
+C:\Users\Gebruiker\source\repos\049_the_for_loop_V\049_the_for_loop_V\bin\Debug\netcoreapp3.1\049_the_for_loop_V.pdb
+C:\Users\Gebruiker\source\repos\049_the_for_loop_V\049_the_for_loop_V\obj\Debug\netcoreapp3.1\049_the_for_loop_V.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\049_the_for_loop_V\049_the_for_loop_V\obj\Debug\netcoreapp3.1\049_the_for_loop_V.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\049_the_for_loop_V\049_the_for_loop_V\obj\Debug\netcoreapp3.1\049_the_for_loop_V.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\049_the_for_loop_V\049_the_for_loop_V\obj\Debug\netcoreapp3.1\049_the_for_loop_V.dll
+C:\Users\Gebruiker\source\repos\049_the_for_loop_V\049_the_for_loop_V\obj\Debug\netcoreapp3.1\049_the_for_loop_V.pdb
+C:\Users\Gebruiker\source\repos\049_the_for_loop_V\049_the_for_loop_V\obj\Debug\netcoreapp3.1\049_the_for_loop_V.genruntimeconfig.cache
