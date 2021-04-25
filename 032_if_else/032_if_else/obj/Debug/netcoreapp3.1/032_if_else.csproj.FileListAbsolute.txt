@@ -1,0 +1,12 @@
+C:\Users\Gebruiker\source\repos\032_if_else\032_if_else\bin\Debug\netcoreapp3.1\032_if_else.exe
+C:\Users\Gebruiker\source\repos\032_if_else\032_if_else\bin\Debug\netcoreapp3.1\032_if_else.deps.json
+C:\Users\Gebruiker\source\repos\032_if_else\032_if_else\bin\Debug\netcoreapp3.1\032_if_else.runtimeconfig.json
+C:\Users\Gebruiker\source\repos\032_if_else\032_if_else\bin\Debug\netcoreapp3.1\032_if_else.runtimeconfig.dev.json
+C:\Users\Gebruiker\source\repos\032_if_else\032_if_else\bin\Debug\netcoreapp3.1\032_if_else.dll
+C:\Users\Gebruiker\source\repos\032_if_else\032_if_else\bin\Debug\netcoreapp3.1\032_if_else.pdb
+C:\Users\Gebruiker\source\repos\032_if_else\032_if_else\obj\Debug\netcoreapp3.1\032_if_else.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\032_if_else\032_if_else\obj\Debug\netcoreapp3.1\032_if_else.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\032_if_else\032_if_else\obj\Debug\netcoreapp3.1\032_if_else.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\032_if_else\032_if_else\obj\Debug\netcoreapp3.1\032_if_else.dll
+C:\Users\Gebruiker\source\repos\032_if_else\032_if_else\obj\Debug\netcoreapp3.1\032_if_else.pdb
+C:\Users\Gebruiker\source\repos\032_if_else\032_if_else\obj\Debug\netcoreapp3.1\032_if_else.genruntimeconfig.cache

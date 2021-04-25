@@ -1,0 +1,12 @@
+C:\Users\Gebruiker\source\repos\030_Equal_to\030_Equal_to\bin\Debug\netcoreapp3.1\030_Equal_to.exe
+C:\Users\Gebruiker\source\repos\030_Equal_to\030_Equal_to\bin\Debug\netcoreapp3.1\030_Equal_to.deps.json
+C:\Users\Gebruiker\source\repos\030_Equal_to\030_Equal_to\bin\Debug\netcoreapp3.1\030_Equal_to.runtimeconfig.json
+C:\Users\Gebruiker\source\repos\030_Equal_to\030_Equal_to\bin\Debug\netcoreapp3.1\030_Equal_to.runtimeconfig.dev.json
+C:\Users\Gebruiker\source\repos\030_Equal_to\030_Equal_to\bin\Debug\netcoreapp3.1\030_Equal_to.dll
+C:\Users\Gebruiker\source\repos\030_Equal_to\030_Equal_to\bin\Debug\netcoreapp3.1\030_Equal_to.pdb
+C:\Users\Gebruiker\source\repos\030_Equal_to\030_Equal_to\obj\Debug\netcoreapp3.1\030_Equal_to.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\030_Equal_to\030_Equal_to\obj\Debug\netcoreapp3.1\030_Equal_to.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\030_Equal_to\030_Equal_to\obj\Debug\netcoreapp3.1\030_Equal_to.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\030_Equal_to\030_Equal_to\obj\Debug\netcoreapp3.1\030_Equal_to.dll
+C:\Users\Gebruiker\source\repos\030_Equal_to\030_Equal_to\obj\Debug\netcoreapp3.1\030_Equal_to.pdb
+C:\Users\Gebruiker\source\repos\030_Equal_to\030_Equal_to\obj\Debug\netcoreapp3.1\030_Equal_to.genruntimeconfig.cache

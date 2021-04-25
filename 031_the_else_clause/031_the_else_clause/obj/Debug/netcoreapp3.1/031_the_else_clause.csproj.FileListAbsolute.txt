@@ -1,0 +1,12 @@
+C:\Users\Gebruiker\source\repos\031_the_else_clause\031_the_else_clause\bin\Debug\netcoreapp3.1\031_the_else_clause.exe
+C:\Users\Gebruiker\source\repos\031_the_else_clause\031_the_else_clause\bin\Debug\netcoreapp3.1\031_the_else_clause.deps.json
+C:\Users\Gebruiker\source\repos\031_the_else_clause\031_the_else_clause\bin\Debug\netcoreapp3.1\031_the_else_clause.runtimeconfig.json
+C:\Users\Gebruiker\source\repos\031_the_else_clause\031_the_else_clause\bin\Debug\netcoreapp3.1\031_the_else_clause.runtimeconfig.dev.json
+C:\Users\Gebruiker\source\repos\031_the_else_clause\031_the_else_clause\bin\Debug\netcoreapp3.1\031_the_else_clause.dll
+C:\Users\Gebruiker\source\repos\031_the_else_clause\031_the_else_clause\bin\Debug\netcoreapp3.1\031_the_else_clause.pdb
+C:\Users\Gebruiker\source\repos\031_the_else_clause\031_the_else_clause\obj\Debug\netcoreapp3.1\031_the_else_clause.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\031_the_else_clause\031_the_else_clause\obj\Debug\netcoreapp3.1\031_the_else_clause.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\031_the_else_clause\031_the_else_clause\obj\Debug\netcoreapp3.1\031_the_else_clause.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\031_the_else_clause\031_the_else_clause\obj\Debug\netcoreapp3.1\031_the_else_clause.dll
+C:\Users\Gebruiker\source\repos\031_the_else_clause\031_the_else_clause\obj\Debug\netcoreapp3.1\031_the_else_clause.pdb
+C:\Users\Gebruiker\source\repos\031_the_else_clause\031_the_else_clause\obj\Debug\netcoreapp3.1\031_the_else_clause.genruntimeconfig.cache
