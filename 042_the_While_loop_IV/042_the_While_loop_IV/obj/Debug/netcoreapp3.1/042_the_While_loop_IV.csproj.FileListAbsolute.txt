@@ -1,0 +1,12 @@
+C:\Users\Gebruiker\source\repos\042_the_While_loop_IV\042_the_While_loop_IV\bin\Debug\netcoreapp3.1\042_the_While_loop_IV.exe
+C:\Users\Gebruiker\source\repos\042_the_While_loop_IV\042_the_While_loop_IV\bin\Debug\netcoreapp3.1\042_the_While_loop_IV.deps.json
+C:\Users\Gebruiker\source\repos\042_the_While_loop_IV\042_the_While_loop_IV\bin\Debug\netcoreapp3.1\042_the_While_loop_IV.runtimeconfig.json
+C:\Users\Gebruiker\source\repos\042_the_While_loop_IV\042_the_While_loop_IV\bin\Debug\netcoreapp3.1\042_the_While_loop_IV.runtimeconfig.dev.json
+C:\Users\Gebruiker\source\repos\042_the_While_loop_IV\042_the_While_loop_IV\bin\Debug\netcoreapp3.1\042_the_While_loop_IV.dll
+C:\Users\Gebruiker\source\repos\042_the_While_loop_IV\042_the_While_loop_IV\bin\Debug\netcoreapp3.1\042_the_While_loop_IV.pdb
+C:\Users\Gebruiker\source\repos\042_the_While_loop_IV\042_the_While_loop_IV\obj\Debug\netcoreapp3.1\042_the_While_loop_IV.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\042_the_While_loop_IV\042_the_While_loop_IV\obj\Debug\netcoreapp3.1\042_the_While_loop_IV.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\042_the_While_loop_IV\042_the_While_loop_IV\obj\Debug\netcoreapp3.1\042_the_While_loop_IV.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\042_the_While_loop_IV\042_the_While_loop_IV\obj\Debug\netcoreapp3.1\042_the_While_loop_IV.dll
+C:\Users\Gebruiker\source\repos\042_the_While_loop_IV\042_the_While_loop_IV\obj\Debug\netcoreapp3.1\042_the_While_loop_IV.pdb
+C:\Users\Gebruiker\source\repos\042_the_While_loop_IV\042_the_While_loop_IV\obj\Debug\netcoreapp3.1\042_the_While_loop_IV.genruntimeconfig.cache
