@@ -1,0 +1,12 @@
+C:\Users\Gebruiker\source\repos\007_Comment\007_Comment\bin\Debug\netcoreapp3.1\007_Comment.exe
+C:\Users\Gebruiker\source\repos\007_Comment\007_Comment\bin\Debug\netcoreapp3.1\007_Comment.deps.json
+C:\Users\Gebruiker\source\repos\007_Comment\007_Comment\bin\Debug\netcoreapp3.1\007_Comment.runtimeconfig.json
+C:\Users\Gebruiker\source\repos\007_Comment\007_Comment\bin\Debug\netcoreapp3.1\007_Comment.runtimeconfig.dev.json
+C:\Users\Gebruiker\source\repos\007_Comment\007_Comment\bin\Debug\netcoreapp3.1\007_Comment.dll
+C:\Users\Gebruiker\source\repos\007_Comment\007_Comment\bin\Debug\netcoreapp3.1\007_Comment.pdb
+C:\Users\Gebruiker\source\repos\007_Comment\007_Comment\obj\Debug\netcoreapp3.1\007_Comment.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\007_Comment\007_Comment\obj\Debug\netcoreapp3.1\007_Comment.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\007_Comment\007_Comment\obj\Debug\netcoreapp3.1\007_Comment.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\007_Comment\007_Comment\obj\Debug\netcoreapp3.1\007_Comment.dll
+C:\Users\Gebruiker\source\repos\007_Comment\007_Comment\obj\Debug\netcoreapp3.1\007_Comment.pdb
+C:\Users\Gebruiker\source\repos\007_Comment\007_Comment\obj\Debug\netcoreapp3.1\007_Comment.genruntimeconfig.cache

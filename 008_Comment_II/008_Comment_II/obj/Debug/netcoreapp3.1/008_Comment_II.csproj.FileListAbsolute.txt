@@ -1,0 +1,12 @@
+C:\Users\Gebruiker\source\repos\008_Comment_II\008_Comment_II\bin\Debug\netcoreapp3.1\008_Comment_II.exe
+C:\Users\Gebruiker\source\repos\008_Comment_II\008_Comment_II\bin\Debug\netcoreapp3.1\008_Comment_II.deps.json
+C:\Users\Gebruiker\source\repos\008_Comment_II\008_Comment_II\bin\Debug\netcoreapp3.1\008_Comment_II.runtimeconfig.json
+C:\Users\Gebruiker\source\repos\008_Comment_II\008_Comment_II\bin\Debug\netcoreapp3.1\008_Comment_II.runtimeconfig.dev.json
+C:\Users\Gebruiker\source\repos\008_Comment_II\008_Comment_II\bin\Debug\netcoreapp3.1\008_Comment_II.dll
+C:\Users\Gebruiker\source\repos\008_Comment_II\008_Comment_II\bin\Debug\netcoreapp3.1\008_Comment_II.pdb
+C:\Users\Gebruiker\source\repos\008_Comment_II\008_Comment_II\obj\Debug\netcoreapp3.1\008_Comment_II.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\008_Comment_II\008_Comment_II\obj\Debug\netcoreapp3.1\008_Comment_II.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\008_Comment_II\008_Comment_II\obj\Debug\netcoreapp3.1\008_Comment_II.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\008_Comment_II\008_Comment_II\obj\Debug\netcoreapp3.1\008_Comment_II.dll
+C:\Users\Gebruiker\source\repos\008_Comment_II\008_Comment_II\obj\Debug\netcoreapp3.1\008_Comment_II.pdb
+C:\Users\Gebruiker\source\repos\008_Comment_II\008_Comment_II\obj\Debug\netcoreapp3.1\008_Comment_II.genruntimeconfig.cache
