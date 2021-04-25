@@ -1,0 +1,13 @@
+C:\Users\Gebruiker\source\repos\026_Area_of_a_Cricle\026_Area_of_a_Cricle\bin\Debug\netcoreapp3.1\026_Area_of_a_Cricle.exe
+C:\Users\Gebruiker\source\repos\026_Area_of_a_Cricle\026_Area_of_a_Cricle\bin\Debug\netcoreapp3.1\026_Area_of_a_Cricle.deps.json
+C:\Users\Gebruiker\source\repos\026_Area_of_a_Cricle\026_Area_of_a_Cricle\bin\Debug\netcoreapp3.1\026_Area_of_a_Cricle.runtimeconfig.json
+C:\Users\Gebruiker\source\repos\026_Area_of_a_Cricle\026_Area_of_a_Cricle\bin\Debug\netcoreapp3.1\026_Area_of_a_Cricle.runtimeconfig.dev.json
+C:\Users\Gebruiker\source\repos\026_Area_of_a_Cricle\026_Area_of_a_Cricle\bin\Debug\netcoreapp3.1\026_Area_of_a_Cricle.dll
+C:\Users\Gebruiker\source\repos\026_Area_of_a_Cricle\026_Area_of_a_Cricle\bin\Debug\netcoreapp3.1\026_Area_of_a_Cricle.pdb
+C:\Users\Gebruiker\source\repos\026_Area_of_a_Cricle\026_Area_of_a_Cricle\obj\Debug\netcoreapp3.1\026_Area_of_a_Cricle.csprojAssemblyReference.cache
+C:\Users\Gebruiker\source\repos\026_Area_of_a_Cricle\026_Area_of_a_Cricle\obj\Debug\netcoreapp3.1\026_Area_of_a_Cricle.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\026_Area_of_a_Cricle\026_Area_of_a_Cricle\obj\Debug\netcoreapp3.1\026_Area_of_a_Cricle.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\026_Area_of_a_Cricle\026_Area_of_a_Cricle\obj\Debug\netcoreapp3.1\026_Area_of_a_Cricle.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\026_Area_of_a_Cricle\026_Area_of_a_Cricle\obj\Debug\netcoreapp3.1\026_Area_of_a_Cricle.dll
+C:\Users\Gebruiker\source\repos\026_Area_of_a_Cricle\026_Area_of_a_Cricle\obj\Debug\netcoreapp3.1\026_Area_of_a_Cricle.pdb
+C:\Users\Gebruiker\source\repos\026_Area_of_a_Cricle\026_Area_of_a_Cricle\obj\Debug\netcoreapp3.1\026_Area_of_a_Cricle.genruntimeconfig.cache
