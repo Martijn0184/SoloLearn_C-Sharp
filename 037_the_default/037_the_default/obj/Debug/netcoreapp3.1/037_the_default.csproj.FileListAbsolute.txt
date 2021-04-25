@@ -1,0 +1,12 @@
+C:\Users\Gebruiker\source\repos\037_the_default\037_the_default\bin\Debug\netcoreapp3.1\037_the_default.exe
+C:\Users\Gebruiker\source\repos\037_the_default\037_the_default\bin\Debug\netcoreapp3.1\037_the_default.deps.json
+C:\Users\Gebruiker\source\repos\037_the_default\037_the_default\bin\Debug\netcoreapp3.1\037_the_default.runtimeconfig.json
+C:\Users\Gebruiker\source\repos\037_the_default\037_the_default\bin\Debug\netcoreapp3.1\037_the_default.runtimeconfig.dev.json
+C:\Users\Gebruiker\source\repos\037_the_default\037_the_default\bin\Debug\netcoreapp3.1\037_the_default.dll
+C:\Users\Gebruiker\source\repos\037_the_default\037_the_default\bin\Debug\netcoreapp3.1\037_the_default.pdb
+C:\Users\Gebruiker\source\repos\037_the_default\037_the_default\obj\Debug\netcoreapp3.1\037_the_default.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\037_the_default\037_the_default\obj\Debug\netcoreapp3.1\037_the_default.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\037_the_default\037_the_default\obj\Debug\netcoreapp3.1\037_the_default.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\037_the_default\037_the_default\obj\Debug\netcoreapp3.1\037_the_default.dll
+C:\Users\Gebruiker\source\repos\037_the_default\037_the_default\obj\Debug\netcoreapp3.1\037_the_default.pdb
+C:\Users\Gebruiker\source\repos\037_the_default\037_the_default\obj\Debug\netcoreapp3.1\037_the_default.genruntimeconfig.cache
