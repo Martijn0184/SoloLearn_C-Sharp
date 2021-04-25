@@ -1,0 +1,12 @@
+C:\Users\Gebruiker\source\repos\018_Assignment_Operators\018_Assignment_Operators\bin\Debug\netcoreapp3.1\018_Assignment_Operators.exe
+C:\Users\Gebruiker\source\repos\018_Assignment_Operators\018_Assignment_Operators\bin\Debug\netcoreapp3.1\018_Assignment_Operators.deps.json
+C:\Users\Gebruiker\source\repos\018_Assignment_Operators\018_Assignment_Operators\bin\Debug\netcoreapp3.1\018_Assignment_Operators.runtimeconfig.json
+C:\Users\Gebruiker\source\repos\018_Assignment_Operators\018_Assignment_Operators\bin\Debug\netcoreapp3.1\018_Assignment_Operators.runtimeconfig.dev.json
+C:\Users\Gebruiker\source\repos\018_Assignment_Operators\018_Assignment_Operators\bin\Debug\netcoreapp3.1\018_Assignment_Operators.dll
+C:\Users\Gebruiker\source\repos\018_Assignment_Operators\018_Assignment_Operators\bin\Debug\netcoreapp3.1\018_Assignment_Operators.pdb
+C:\Users\Gebruiker\source\repos\018_Assignment_Operators\018_Assignment_Operators\obj\Debug\netcoreapp3.1\018_Assignment_Operators.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\018_Assignment_Operators\018_Assignment_Operators\obj\Debug\netcoreapp3.1\018_Assignment_Operators.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\018_Assignment_Operators\018_Assignment_Operators\obj\Debug\netcoreapp3.1\018_Assignment_Operators.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\018_Assignment_Operators\018_Assignment_Operators\obj\Debug\netcoreapp3.1\018_Assignment_Operators.dll
+C:\Users\Gebruiker\source\repos\018_Assignment_Operators\018_Assignment_Operators\obj\Debug\netcoreapp3.1\018_Assignment_Operators.pdb
+C:\Users\Gebruiker\source\repos\018_Assignment_Operators\018_Assignment_Operators\obj\Debug\netcoreapp3.1\018_Assignment_Operators.genruntimeconfig.cache
