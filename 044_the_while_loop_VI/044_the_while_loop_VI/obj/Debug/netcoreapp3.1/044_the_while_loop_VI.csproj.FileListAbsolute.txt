@@ -1,0 +1,12 @@
+C:\Users\Gebruiker\source\repos\044_the_while_loop_VI\044_the_while_loop_VI\bin\Debug\netcoreapp3.1\044_the_while_loop_VI.exe
+C:\Users\Gebruiker\source\repos\044_the_while_loop_VI\044_the_while_loop_VI\bin\Debug\netcoreapp3.1\044_the_while_loop_VI.deps.json
+C:\Users\Gebruiker\source\repos\044_the_while_loop_VI\044_the_while_loop_VI\bin\Debug\netcoreapp3.1\044_the_while_loop_VI.runtimeconfig.json
+C:\Users\Gebruiker\source\repos\044_the_while_loop_VI\044_the_while_loop_VI\bin\Debug\netcoreapp3.1\044_the_while_loop_VI.runtimeconfig.dev.json
+C:\Users\Gebruiker\source\repos\044_the_while_loop_VI\044_the_while_loop_VI\bin\Debug\netcoreapp3.1\044_the_while_loop_VI.dll
+C:\Users\Gebruiker\source\repos\044_the_while_loop_VI\044_the_while_loop_VI\bin\Debug\netcoreapp3.1\044_the_while_loop_VI.pdb
+C:\Users\Gebruiker\source\repos\044_the_while_loop_VI\044_the_while_loop_VI\obj\Debug\netcoreapp3.1\044_the_while_loop_VI.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\044_the_while_loop_VI\044_the_while_loop_VI\obj\Debug\netcoreapp3.1\044_the_while_loop_VI.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\044_the_while_loop_VI\044_the_while_loop_VI\obj\Debug\netcoreapp3.1\044_the_while_loop_VI.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\044_the_while_loop_VI\044_the_while_loop_VI\obj\Debug\netcoreapp3.1\044_the_while_loop_VI.dll
+C:\Users\Gebruiker\source\repos\044_the_while_loop_VI\044_the_while_loop_VI\obj\Debug\netcoreapp3.1\044_the_while_loop_VI.pdb
+C:\Users\Gebruiker\source\repos\044_the_while_loop_VI\044_the_while_loop_VI\obj\Debug\netcoreapp3.1\044_the_while_loop_VI.genruntimeconfig.cache
