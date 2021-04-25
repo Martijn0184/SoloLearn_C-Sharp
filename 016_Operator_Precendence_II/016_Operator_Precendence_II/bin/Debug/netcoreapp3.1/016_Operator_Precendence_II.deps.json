@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "016_Operator_Precendence_II/1.0.0": {
+        "runtime": {
+          "016_Operator_Precendence_II.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "016_Operator_Precendence_II/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

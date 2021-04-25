@@ -1,0 +1,13 @@
+C:\Users\Gebruiker\source\repos\015_Operator_Precedence\015_Operator_Precedence\bin\Debug\netcoreapp3.1\015_Operator_Precedence.exe
+C:\Users\Gebruiker\source\repos\015_Operator_Precedence\015_Operator_Precedence\bin\Debug\netcoreapp3.1\015_Operator_Precedence.deps.json
+C:\Users\Gebruiker\source\repos\015_Operator_Precedence\015_Operator_Precedence\bin\Debug\netcoreapp3.1\015_Operator_Precedence.runtimeconfig.json
+C:\Users\Gebruiker\source\repos\015_Operator_Precedence\015_Operator_Precedence\bin\Debug\netcoreapp3.1\015_Operator_Precedence.runtimeconfig.dev.json
+C:\Users\Gebruiker\source\repos\015_Operator_Precedence\015_Operator_Precedence\bin\Debug\netcoreapp3.1\015_Operator_Precedence.dll
+C:\Users\Gebruiker\source\repos\015_Operator_Precedence\015_Operator_Precedence\bin\Debug\netcoreapp3.1\015_Operator_Precedence.pdb
+C:\Users\Gebruiker\source\repos\015_Operator_Precedence\015_Operator_Precedence\obj\Debug\netcoreapp3.1\015_Operator_Precedence.csprojAssemblyReference.cache
+C:\Users\Gebruiker\source\repos\015_Operator_Precedence\015_Operator_Precedence\obj\Debug\netcoreapp3.1\015_Operator_Precedence.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\015_Operator_Precedence\015_Operator_Precedence\obj\Debug\netcoreapp3.1\015_Operator_Precedence.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\015_Operator_Precedence\015_Operator_Precedence\obj\Debug\netcoreapp3.1\015_Operator_Precedence.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\015_Operator_Precedence\015_Operator_Precedence\obj\Debug\netcoreapp3.1\015_Operator_Precedence.dll
+C:\Users\Gebruiker\source\repos\015_Operator_Precedence\015_Operator_Precedence\obj\Debug\netcoreapp3.1\015_Operator_Precedence.pdb
+C:\Users\Gebruiker\source\repos\015_Operator_Precedence\015_Operator_Precedence\obj\Debug\netcoreapp3.1\015_Operator_Precedence.genruntimeconfig.cache
