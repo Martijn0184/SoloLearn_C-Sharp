@@ -1,0 +1,12 @@
+C:\Users\Gebruiker\source\repos\009_Multi-Line_Comments\009_Multi-Line_Comments\bin\Debug\netcoreapp3.1\009_Multi-Line_Comments.exe
+C:\Users\Gebruiker\source\repos\009_Multi-Line_Comments\009_Multi-Line_Comments\bin\Debug\netcoreapp3.1\009_Multi-Line_Comments.deps.json
+C:\Users\Gebruiker\source\repos\009_Multi-Line_Comments\009_Multi-Line_Comments\bin\Debug\netcoreapp3.1\009_Multi-Line_Comments.runtimeconfig.json
+C:\Users\Gebruiker\source\repos\009_Multi-Line_Comments\009_Multi-Line_Comments\bin\Debug\netcoreapp3.1\009_Multi-Line_Comments.runtimeconfig.dev.json
+C:\Users\Gebruiker\source\repos\009_Multi-Line_Comments\009_Multi-Line_Comments\bin\Debug\netcoreapp3.1\009_Multi-Line_Comments.dll
+C:\Users\Gebruiker\source\repos\009_Multi-Line_Comments\009_Multi-Line_Comments\bin\Debug\netcoreapp3.1\009_Multi-Line_Comments.pdb
+C:\Users\Gebruiker\source\repos\009_Multi-Line_Comments\009_Multi-Line_Comments\obj\Debug\netcoreapp3.1\009_Multi-Line_Comments.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\009_Multi-Line_Comments\009_Multi-Line_Comments\obj\Debug\netcoreapp3.1\009_Multi-Line_Comments.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\009_Multi-Line_Comments\009_Multi-Line_Comments\obj\Debug\netcoreapp3.1\009_Multi-Line_Comments.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\009_Multi-Line_Comments\009_Multi-Line_Comments\obj\Debug\netcoreapp3.1\009_Multi-Line_Comments.dll
+C:\Users\Gebruiker\source\repos\009_Multi-Line_Comments\009_Multi-Line_Comments\obj\Debug\netcoreapp3.1\009_Multi-Line_Comments.pdb
+C:\Users\Gebruiker\source\repos\009_Multi-Line_Comments\009_Multi-Line_Comments\obj\Debug\netcoreapp3.1\009_Multi-Line_Comments.genruntimeconfig.cache
