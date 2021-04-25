@@ -1,0 +1,12 @@
+C:\Users\Gebruiker\source\repos\005_User_Input_II\005_User_Input_II\bin\Debug\netcoreapp3.1\005_User_Input_II.exe
+C:\Users\Gebruiker\source\repos\005_User_Input_II\005_User_Input_II\bin\Debug\netcoreapp3.1\005_User_Input_II.deps.json
+C:\Users\Gebruiker\source\repos\005_User_Input_II\005_User_Input_II\bin\Debug\netcoreapp3.1\005_User_Input_II.runtimeconfig.json
+C:\Users\Gebruiker\source\repos\005_User_Input_II\005_User_Input_II\bin\Debug\netcoreapp3.1\005_User_Input_II.runtimeconfig.dev.json
+C:\Users\Gebruiker\source\repos\005_User_Input_II\005_User_Input_II\bin\Debug\netcoreapp3.1\005_User_Input_II.dll
+C:\Users\Gebruiker\source\repos\005_User_Input_II\005_User_Input_II\bin\Debug\netcoreapp3.1\005_User_Input_II.pdb
+C:\Users\Gebruiker\source\repos\005_User_Input_II\005_User_Input_II\obj\Debug\netcoreapp3.1\005_User_Input_II.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\005_User_Input_II\005_User_Input_II\obj\Debug\netcoreapp3.1\005_User_Input_II.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\005_User_Input_II\005_User_Input_II\obj\Debug\netcoreapp3.1\005_User_Input_II.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\005_User_Input_II\005_User_Input_II\obj\Debug\netcoreapp3.1\005_User_Input_II.dll
+C:\Users\Gebruiker\source\repos\005_User_Input_II\005_User_Input_II\obj\Debug\netcoreapp3.1\005_User_Input_II.pdb
+C:\Users\Gebruiker\source\repos\005_User_Input_II\005_User_Input_II\obj\Debug\netcoreapp3.1\005_User_Input_II.genruntimeconfig.cache
