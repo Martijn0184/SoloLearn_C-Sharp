@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "034_nest_unlimited/1.0.0": {
+        "runtime": {
+          "034_nest_unlimited.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "034_nest_unlimited/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

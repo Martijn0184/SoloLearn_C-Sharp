@@ -1,0 +1,12 @@
+C:\Users\Gebruiker\source\repos\035_The_if-else_if_statement\035_The_if-else_if_statement\bin\Debug\netcoreapp3.1\035_The_if-else_if_statement.exe
+C:\Users\Gebruiker\source\repos\035_The_if-else_if_statement\035_The_if-else_if_statement\bin\Debug\netcoreapp3.1\035_The_if-else_if_statement.deps.json
+C:\Users\Gebruiker\source\repos\035_The_if-else_if_statement\035_The_if-else_if_statement\bin\Debug\netcoreapp3.1\035_The_if-else_if_statement.runtimeconfig.json
+C:\Users\Gebruiker\source\repos\035_The_if-else_if_statement\035_The_if-else_if_statement\bin\Debug\netcoreapp3.1\035_The_if-else_if_statement.runtimeconfig.dev.json
+C:\Users\Gebruiker\source\repos\035_The_if-else_if_statement\035_The_if-else_if_statement\bin\Debug\netcoreapp3.1\035_The_if-else_if_statement.dll
+C:\Users\Gebruiker\source\repos\035_The_if-else_if_statement\035_The_if-else_if_statement\bin\Debug\netcoreapp3.1\035_The_if-else_if_statement.pdb
+C:\Users\Gebruiker\source\repos\035_The_if-else_if_statement\035_The_if-else_if_statement\obj\Debug\netcoreapp3.1\035_The_if-else_if_statement.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\035_The_if-else_if_statement\035_The_if-else_if_statement\obj\Debug\netcoreapp3.1\035_The_if-else_if_statement.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\035_The_if-else_if_statement\035_The_if-else_if_statement\obj\Debug\netcoreapp3.1\035_The_if-else_if_statement.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\035_The_if-else_if_statement\035_The_if-else_if_statement\obj\Debug\netcoreapp3.1\035_The_if-else_if_statement.dll
+C:\Users\Gebruiker\source\repos\035_The_if-else_if_statement\035_The_if-else_if_statement\obj\Debug\netcoreapp3.1\035_The_if-else_if_statement.pdb
+C:\Users\Gebruiker\source\repos\035_The_if-else_if_statement\035_The_if-else_if_statement\obj\Debug\netcoreapp3.1\035_The_if-else_if_statement.genruntimeconfig.cache

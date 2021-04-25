@@ -1,0 +1,12 @@
+C:\Users\Gebruiker\source\repos\034_nest_unlimited\034_nest_unlimited\bin\Debug\netcoreapp3.1\034_nest_unlimited.exe
+C:\Users\Gebruiker\source\repos\034_nest_unlimited\034_nest_unlimited\bin\Debug\netcoreapp3.1\034_nest_unlimited.deps.json
+C:\Users\Gebruiker\source\repos\034_nest_unlimited\034_nest_unlimited\bin\Debug\netcoreapp3.1\034_nest_unlimited.runtimeconfig.json
+C:\Users\Gebruiker\source\repos\034_nest_unlimited\034_nest_unlimited\bin\Debug\netcoreapp3.1\034_nest_unlimited.runtimeconfig.dev.json
+C:\Users\Gebruiker\source\repos\034_nest_unlimited\034_nest_unlimited\bin\Debug\netcoreapp3.1\034_nest_unlimited.dll
+C:\Users\Gebruiker\source\repos\034_nest_unlimited\034_nest_unlimited\bin\Debug\netcoreapp3.1\034_nest_unlimited.pdb
+C:\Users\Gebruiker\source\repos\034_nest_unlimited\034_nest_unlimited\obj\Debug\netcoreapp3.1\034_nest_unlimited.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\034_nest_unlimited\034_nest_unlimited\obj\Debug\netcoreapp3.1\034_nest_unlimited.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\034_nest_unlimited\034_nest_unlimited\obj\Debug\netcoreapp3.1\034_nest_unlimited.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\034_nest_unlimited\034_nest_unlimited\obj\Debug\netcoreapp3.1\034_nest_unlimited.dll
+C:\Users\Gebruiker\source\repos\034_nest_unlimited\034_nest_unlimited\obj\Debug\netcoreapp3.1\034_nest_unlimited.pdb
+C:\Users\Gebruiker\source\repos\034_nest_unlimited\034_nest_unlimited\obj\Debug\netcoreapp3.1\034_nest_unlimited.genruntimeconfig.cache
