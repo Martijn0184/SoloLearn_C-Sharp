@@ -1,0 +1,12 @@
+C:\Users\Gebruiker\source\repos\054_do-while_III\054_do-while_III\bin\Debug\netcoreapp3.1\054_do-while_III.exe
+C:\Users\Gebruiker\source\repos\054_do-while_III\054_do-while_III\bin\Debug\netcoreapp3.1\054_do-while_III.deps.json
+C:\Users\Gebruiker\source\repos\054_do-while_III\054_do-while_III\bin\Debug\netcoreapp3.1\054_do-while_III.runtimeconfig.json
+C:\Users\Gebruiker\source\repos\054_do-while_III\054_do-while_III\bin\Debug\netcoreapp3.1\054_do-while_III.runtimeconfig.dev.json
+C:\Users\Gebruiker\source\repos\054_do-while_III\054_do-while_III\bin\Debug\netcoreapp3.1\054_do-while_III.dll
+C:\Users\Gebruiker\source\repos\054_do-while_III\054_do-while_III\bin\Debug\netcoreapp3.1\054_do-while_III.pdb
+C:\Users\Gebruiker\source\repos\054_do-while_III\054_do-while_III\obj\Debug\netcoreapp3.1\054_do-while_III.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\054_do-while_III\054_do-while_III\obj\Debug\netcoreapp3.1\054_do-while_III.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\054_do-while_III\054_do-while_III\obj\Debug\netcoreapp3.1\054_do-while_III.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\054_do-while_III\054_do-while_III\obj\Debug\netcoreapp3.1\054_do-while_III.dll
+C:\Users\Gebruiker\source\repos\054_do-while_III\054_do-while_III\obj\Debug\netcoreapp3.1\054_do-while_III.pdb
+C:\Users\Gebruiker\source\repos\054_do-while_III\054_do-while_III\obj\Debug\netcoreapp3.1\054_do-while_III.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "054_do-while_III/1.0.0": {
+        "runtime": {
+          "054_do-while_III.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "054_do-while_III/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
